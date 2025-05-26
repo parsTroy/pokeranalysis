@@ -1,0 +1,15 @@
+/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis/bin/Debug/net8.0/PokerAnalysis
+/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis/bin/Debug/net8.0/PokerAnalysis.deps.json
+/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis/bin/Debug/net8.0/PokerAnalysis.runtimeconfig.json
+/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis/bin/Debug/net8.0/PokerAnalysis.dll
+/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis/bin/Debug/net8.0/PokerAnalysis.pdb
+/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis/obj/Debug/net8.0/PokerAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis/obj/Debug/net8.0/PokerAnalysis.AssemblyInfoInputs.cache
+/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis/obj/Debug/net8.0/PokerAnalysis.AssemblyInfo.cs
+/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis/obj/Debug/net8.0/PokerAnalysis.csproj.CoreCompileInputs.cache
+/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis/obj/Debug/net8.0/PokerAnalysis.sourcelink.json
+/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis/obj/Debug/net8.0/PokerAnalysis.dll
+/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis/obj/Debug/net8.0/refint/PokerAnalysis.dll
+/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis/obj/Debug/net8.0/PokerAnalysis.pdb
+/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis/obj/Debug/net8.0/PokerAnalysis.genruntimeconfig.cache
+/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis/obj/Debug/net8.0/ref/PokerAnalysis.dll

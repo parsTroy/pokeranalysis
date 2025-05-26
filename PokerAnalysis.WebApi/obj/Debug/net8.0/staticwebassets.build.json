@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NSVAWX9+1yqfr+jSaNVvz8RWGmHPV2rHqMsiROp4q2w=",
+  "Source": "PokerAnalysis.WebApi",
+  "BasePath": "_content/PokerAnalysis.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

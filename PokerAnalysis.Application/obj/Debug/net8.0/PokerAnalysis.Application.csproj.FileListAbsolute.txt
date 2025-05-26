@@ -1,0 +1,16 @@
+/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis.Application/bin/Debug/net8.0/PokerAnalysis.Application.deps.json
+/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis.Application/bin/Debug/net8.0/PokerAnalysis.Application.dll
+/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis.Application/bin/Debug/net8.0/PokerAnalysis.Application.pdb
+/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis.Application/bin/Debug/net8.0/PokerAnalysis.Domain.dll
+/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis.Application/bin/Debug/net8.0/PokerAnalysis.Domain.pdb
+/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis.Application/obj/Debug/net8.0/PokerAnalysis.Application.csproj.AssemblyReference.cache
+/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis.Application/obj/Debug/net8.0/PokerAnalysis.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis.Application/obj/Debug/net8.0/PokerAnalysis.Application.AssemblyInfoInputs.cache
+/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis.Application/obj/Debug/net8.0/PokerAnalysis.Application.AssemblyInfo.cs
+/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis.Application/obj/Debug/net8.0/PokerAnalysis.Application.csproj.CoreCompileInputs.cache
+/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis.Application/obj/Debug/net8.0/PokerAnalysis.Application.sourcelink.json
+/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis.Application/obj/Debug/net8.0/PokerAna.7A088917.Up2Date
+/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis.Application/obj/Debug/net8.0/PokerAnalysis.Application.dll
+/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis.Application/obj/Debug/net8.0/refint/PokerAnalysis.Application.dll
+/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis.Application/obj/Debug/net8.0/PokerAnalysis.Application.pdb
+/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis.Application/obj/Debug/net8.0/ref/PokerAnalysis.Application.dll
