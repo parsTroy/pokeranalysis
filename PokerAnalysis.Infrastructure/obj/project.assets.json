@@ -1,0 +1,117 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "PokerAnalysis.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "PokerAnalysis.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PokerAnalysis.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PokerAnalysis.Application.dll": {}
+        }
+      },
+      "PokerAnalysis.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/PokerAnalysis.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PokerAnalysis.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PokerAnalysis.Application/1.0.0": {
+      "type": "project",
+      "path": "../PokerAnalysis.Application/PokerAnalysis.Application.csproj",
+      "msbuildProject": "../PokerAnalysis.Application/PokerAnalysis.Application.csproj"
+    },
+    "PokerAnalysis.Domain/1.0.0": {
+      "type": "project",
+      "path": "../PokerAnalysis.Domain/PokerAnalysis.Domain.csproj",
+      "msbuildProject": "../PokerAnalysis.Domain/PokerAnalysis.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "PokerAnalysis.Application >= 1.0.0",
+      "PokerAnalysis.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/troyparsons/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis.Infrastructure/PokerAnalysis.Infrastructure.csproj",
+      "projectName": "PokerAnalysis.Infrastructure",
+      "projectPath": "/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis.Infrastructure/PokerAnalysis.Infrastructure.csproj",
+      "packagesPath": "/Users/troyparsons/.nuget/packages/",
+      "outputPath": "/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis.Infrastructure/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/troyparsons/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis.Application/PokerAnalysis.Application.csproj": {
+              "projectPath": "/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis.Application/PokerAnalysis.Application.csproj"
+            },
+            "/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis.Domain/PokerAnalysis.Domain.csproj": {
+              "projectPath": "/Users/troyparsons/Developer/cursor/dot-net/PokerAnalysis/PokerAnalysis.Domain/PokerAnalysis.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.410/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+@PokerAnalysis.WebApi_HostAddress = http://localhost:5030
+
+GET {{PokerAnalysis.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
